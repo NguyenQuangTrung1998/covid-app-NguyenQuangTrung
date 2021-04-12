@@ -1,0 +1,50 @@
+.wrap {
+    width: 100%;
+}
+.todolist {
+    width: 100%;
+    margin: 20px auto;
+    display: flex;
+    justify-content: space-around;
+}
+.todolist > span {
+    width: 5px;
+}
+.todolist > img {
+    width: auto;
+}
+.countryName {
+    width: 100px;
+}
+p {
+    font-size: 13px;
+    text-transform: lowercase;
+    font-family: "Times New Roman", Times, serif;
+    color: #424446;
+    text-decoration: none;
+}
+
+.todolistFilter {
+    width: 100%;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border-bottom: solid 0.5px #918d8d;
+}
+.statistic {
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+    margin: 0px auto;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.todolistFilter .element {
+    display: flex;
+    justify-content: space-around;
+}
+.todolistFilter .element > img {
+    width: 150px;
+}
