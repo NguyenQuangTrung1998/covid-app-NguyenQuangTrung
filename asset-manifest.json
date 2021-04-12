@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/NguyenQuangTrung1998/covid-app-NguyenQuangTrung/static/css/main.83e698ef.chunk.css",
-    "main.js": "/NguyenQuangTrung1998/covid-app-NguyenQuangTrung/static/js/main.9c322b04.chunk.js",
-    "main.js.map": "/NguyenQuangTrung1998/covid-app-NguyenQuangTrung/static/js/main.9c322b04.chunk.js.map",
-    "runtime-main.js": "/NguyenQuangTrung1998/covid-app-NguyenQuangTrung/static/js/runtime-main.dc7c2794.js",
-    "runtime-main.js.map": "/NguyenQuangTrung1998/covid-app-NguyenQuangTrung/static/js/runtime-main.dc7c2794.js.map",
-    "static/js/2.fbfb3809.chunk.js": "/NguyenQuangTrung1998/covid-app-NguyenQuangTrung/static/js/2.fbfb3809.chunk.js",
-    "static/js/2.fbfb3809.chunk.js.map": "/NguyenQuangTrung1998/covid-app-NguyenQuangTrung/static/js/2.fbfb3809.chunk.js.map",
-    "static/js/3.70152859.chunk.js": "/NguyenQuangTrung1998/covid-app-NguyenQuangTrung/static/js/3.70152859.chunk.js",
-    "static/js/3.70152859.chunk.js.map": "/NguyenQuangTrung1998/covid-app-NguyenQuangTrung/static/js/3.70152859.chunk.js.map",
-    "index.html": "/NguyenQuangTrung1998/covid-app-NguyenQuangTrung/index.html",
-    "static/css/main.83e698ef.chunk.css.map": "/NguyenQuangTrung1998/covid-app-NguyenQuangTrung/static/css/main.83e698ef.chunk.css.map",
-    "static/js/2.fbfb3809.chunk.js.LICENSE.txt": "/NguyenQuangTrung1998/covid-app-NguyenQuangTrung/static/js/2.fbfb3809.chunk.js.LICENSE.txt"
+    "main.css": "/covid-app-NguyenQuangTrung/static/css/main.83e698ef.chunk.css",
+    "main.js": "/covid-app-NguyenQuangTrung/static/js/main.9c322b04.chunk.js",
+    "main.js.map": "/covid-app-NguyenQuangTrung/static/js/main.9c322b04.chunk.js.map",
+    "runtime-main.js": "/covid-app-NguyenQuangTrung/static/js/runtime-main.0c9d7994.js",
+    "runtime-main.js.map": "/covid-app-NguyenQuangTrung/static/js/runtime-main.0c9d7994.js.map",
+    "static/js/2.fbfb3809.chunk.js": "/covid-app-NguyenQuangTrung/static/js/2.fbfb3809.chunk.js",
+    "static/js/2.fbfb3809.chunk.js.map": "/covid-app-NguyenQuangTrung/static/js/2.fbfb3809.chunk.js.map",
+    "static/js/3.70152859.chunk.js": "/covid-app-NguyenQuangTrung/static/js/3.70152859.chunk.js",
+    "static/js/3.70152859.chunk.js.map": "/covid-app-NguyenQuangTrung/static/js/3.70152859.chunk.js.map",
+    "index.html": "/covid-app-NguyenQuangTrung/index.html",
+    "static/css/main.83e698ef.chunk.css.map": "/covid-app-NguyenQuangTrung/static/css/main.83e698ef.chunk.css.map",
+    "static/js/2.fbfb3809.chunk.js.LICENSE.txt": "/covid-app-NguyenQuangTrung/static/js/2.fbfb3809.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dc7c2794.js",
+    "static/js/runtime-main.0c9d7994.js",
     "static/js/2.fbfb3809.chunk.js",
     "static/css/main.83e698ef.chunk.css",
     "static/js/main.9c322b04.chunk.js"
